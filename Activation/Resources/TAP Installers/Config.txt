@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+RunProgram="hidcon:install.cmd"
+GUIMode="2"
+;!@InstallEnd@!
